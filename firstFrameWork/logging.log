@@ -1,0 +1,12 @@
+2019-03-06 22:23:29 INFO  firstFrameWork:19 - URL is Opened
+2019-03-06 22:23:34 INFO  firstFrameWork:51 - Given value entered in User Name text box as expected in the application
+2019-03-06 22:23:34 INFO  firstFrameWork:51 - Given value entered in Password text box as expected in the application
+2019-03-06 22:23:34 INFO  firstFrameWork:30 - The Sign In button displayed as expected in the application
+2019-03-06 22:23:35 INFO  firstFrameWork:30 - The Forgot password hyperlink displayed as expected in the application
+2019-03-06 22:23:50 ERROR firstFrameWork:39 - The dummy object NOT displayed as expected in the application
+2019-03-06 22:26:30 [INFO ] firstFrameWork:19 - URL is Opened
+2019-03-06 22:26:35 [INFO ] firstFrameWork:51 - Given value entered in User Name text box as expected in the application
+2019-03-06 22:26:35 [INFO ] firstFrameWork:51 - Given value entered in Password text box as expected in the application
+2019-03-06 22:26:35 [INFO ] firstFrameWork:30 - The Sign In button displayed as expected in the application
+2019-03-06 22:26:36 [INFO ] firstFrameWork:30 - The Forgot password hyperlink displayed as expected in the application
+2019-03-06 22:26:51 [ERROR] firstFrameWork:39 - The dummy object NOT displayed as expected in the application

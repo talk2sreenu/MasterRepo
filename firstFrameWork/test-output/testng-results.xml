@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[The Sign In button displayed as expected in the application]]>
+    </line>
+    <line>
+      <![CDATA[The Forgot password hyperlink displayed as expected in the application]]>
+    </line>
+    <line>
+      <![CDATA[The dummy object NOT displayed as expected in the application]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31268" started-at="2019-03-07T03:26:21Z" finished-at="2019-03-07T03:26:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31268" started-at="2019-03-07T03:26:21Z" finished-at="2019-03-07T03:26:52Z">
+      <class name="testCases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.LoginTest@7f9a81e8]" name="setUp" is-config="true" duration-ms="6424" started-at="2019-03-06T22:26:21Z" finished-at="2019-03-06T22:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="chkLogin()[pri:0, instance:testCases.LoginTest@7f9a81e8]" name="chkLogin" duration-ms="24094" started-at="2019-03-06T22:26:27Z" finished-at="2019-03-06T22:26:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The Sign In button displayed as expected in the application]]>
+            </line>
+            <line>
+              <![CDATA[The Forgot password hyperlink displayed as expected in the application]]>
+            </line>
+            <line>
+              <![CDATA[The dummy object NOT displayed as expected in the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- chkLogin -->
+        <test-method status="PASS" signature="testFunction()[pri:0, instance:testCases.LoginTest@7f9a81e8]" name="testFunction" is-config="true" duration-ms="1" started-at="2019-03-06T22:26:51Z" finished-at="2019-03-06T22:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunction -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginTest@7f9a81e8]" name="tearDown" is-config="true" duration-ms="732" started-at="2019-03-06T22:26:51Z" finished-at="2019-03-06T22:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
