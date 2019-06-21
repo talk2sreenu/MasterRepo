@@ -1,47 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[The Sign In button displayed as expected in the application]]>
+      <![CDATA[The Sign In button NOT displayed as expected in the application]]>
     </line>
     <line>
-      <![CDATA[The Forgot password hyperlink displayed as expected in the application]]>
+      <![CDATA[The Forgot password hyperlink NOT displayed as expected in the application]]>
     </line>
     <line>
       <![CDATA[The dummy object NOT displayed as expected in the application]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31268" started-at="2019-03-07T03:26:21Z" finished-at="2019-03-07T03:26:52Z">
+  <suite name="Suite" duration-ms="88373" started-at="2019-06-18T04:12:35Z" finished-at="2019-06-18T04:14:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31268" started-at="2019-03-07T03:26:21Z" finished-at="2019-03-07T03:26:52Z">
+    <test name="Test" duration-ms="88373" started-at="2019-06-18T04:12:35Z" finished-at="2019-06-18T04:14:04Z">
       <class name="testCases.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.LoginTest@7f9a81e8]" name="setUp" is-config="true" duration-ms="6424" started-at="2019-03-06T22:26:21Z" finished-at="2019-03-06T22:26:27Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.LoginTest@5702b3b1]" name="setUp" is-config="true" duration-ms="5902" started-at="2019-06-18T00:12:35Z" finished-at="2019-06-18T00:12:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="chkLogin()[pri:0, instance:testCases.LoginTest@7f9a81e8]" name="chkLogin" duration-ms="24094" started-at="2019-03-06T22:26:27Z" finished-at="2019-03-06T22:26:51Z">
+        <test-method status="PASS" signature="chkLogin()[pri:0, instance:testCases.LoginTest@5702b3b1]" name="chkLogin" duration-ms="81423" started-at="2019-06-18T00:12:41Z" finished-at="2019-06-18T00:14:03Z">
           <reporter-output>
             <line>
-              <![CDATA[The Sign In button displayed as expected in the application]]>
+              <![CDATA[The Sign In button NOT displayed as expected in the application]]>
             </line>
             <line>
-              <![CDATA[The Forgot password hyperlink displayed as expected in the application]]>
+              <![CDATA[The Forgot password hyperlink NOT displayed as expected in the application]]>
             </line>
             <line>
               <![CDATA[The dummy object NOT displayed as expected in the application]]>
             </line>
           </reporter-output>
         </test-method> <!-- chkLogin -->
-        <test-method status="PASS" signature="testFunction()[pri:0, instance:testCases.LoginTest@7f9a81e8]" name="testFunction" is-config="true" duration-ms="1" started-at="2019-03-06T22:26:51Z" finished-at="2019-03-06T22:26:51Z">
+        <test-method status="PASS" signature="testFunction()[pri:0, instance:testCases.LoginTest@5702b3b1]" name="testFunction" is-config="true" duration-ms="0" started-at="2019-06-18T00:14:03Z" finished-at="2019-06-18T00:14:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFunction -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginTest@7f9a81e8]" name="tearDown" is-config="true" duration-ms="732" started-at="2019-03-06T22:26:51Z" finished-at="2019-03-06T22:26:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.LoginTest@5702b3b1]" name="tearDown" is-config="true" duration-ms="644" started-at="2019-06-18T00:14:03Z" finished-at="2019-06-18T00:14:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:testCases.LoginTest@5702b3b1]" name="endReport" is-config="true" duration-ms="384" started-at="2019-06-18T00:14:03Z" finished-at="2019-06-18T00:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
       </class> <!-- testCases.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
