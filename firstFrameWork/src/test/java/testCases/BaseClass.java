@@ -58,4 +58,7 @@ public class BaseClass {
 		driver.quit();
 	}
 	
+	public void thirdMethod() {
+		//This method has been added from Dev-Branch
+	}
 }
