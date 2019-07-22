@@ -29,7 +29,7 @@ public class BaseClass {
 	@BeforeClass
 	public void setUp()
 	{
-		extent = new ExtentReports(System.getProperty("user.dir") +"/test-output/STMExtentReport.html", true);
+		extent = new ExtentReports(System.getProperty("user.dir") +"\\STMExtentReport.html", true);
 		 //extent.addSystemInfo("Environment","Environment Name")
 		 extent
 		                .addSystemInfo("Host Name", "SoftwareTestingMaterial")
@@ -37,7 +37,7 @@ public class BaseClass {
 		                .addSystemInfo("User Name", "Srinivasu Kaki");
 		                //loading the external xml file (i.e., extent-config.xml) which was placed under the base directory
 		                //You could find the xml file below. Create xml file in your project and copy past the code mentioned below
-		                extent.loadConfig(new File(System.getProperty("user.dir")+"\\testResources\\extent-config.xml"));
+		                extent.loadConfig(new File(System.getProperty("user.dir")+"\\src\\test\\java\\testResources\\extent-config.xml"));
 
 		String driverPath = System.getProperty("user.dir")+File.separator+"Drivers"+File.separator+"chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver", driverPath);
