@@ -58,9 +58,11 @@ public class BaseClass {
 		driver.quit();
 	}
 	
+	public void thirdMethod() {
+		//This method has been added from Dev-Branch
+	}
 	public void testMethod()
 	{
 		//This method added from Srini-Dev-Branch-Local branch
 	}
-	
 }
