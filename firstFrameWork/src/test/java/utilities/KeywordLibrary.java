@@ -13,6 +13,7 @@ import org.openqa.selenium.WebElement;
 import org.testng.Reporter;
 
 import com.google.common.io.Files;
+import com.relevantcodes.extentreports.LogStatus;
 
 import junit.framework.Assert;
 import testCases.BaseClass;
@@ -26,8 +27,8 @@ public class KeywordLibrary extends BaseClass{
 		try {
 			if(element.isDisplayed()) {
 				System.out.println("The "+elementName+" displayed as expected in the application");
-				Reporter.log("The "+elementName+" displayed as expected in the application");
-				logger.info("The "+elementName+" displayed as expected in the application");
+				//logger.info("The "+elementName+" displayed as expected in the application");
+				test.log(LogStatus.PASS, "Validating "+elementName+" display" , "The "+elementName+" displayed as expected in the application");
 				takeScreenshot(driver,elementName);
 				Assert.assertTrue(true);
 				ObjectVerification = true;
@@ -35,8 +36,8 @@ public class KeywordLibrary extends BaseClass{
 		}catch(Exception e)
 		{
 			System.out.println("The "+elementName+" NOT displayed as expected in the application");
-			Reporter.log("The "+elementName+" NOT displayed as expected in the application");
-			logger.error("The "+elementName+" NOT displayed as expected in the application");
+			test.log(LogStatus.FAIL, "Validating "+elementName+" display" , "The "+elementName+" NOT displayed as expected in the application");
+			//logger.error("The "+elementName+" NOT displayed as expected in the application");
 			ObjectVerification = false;
 		}
 		return ObjectVerification;

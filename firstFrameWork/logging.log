@@ -50,3 +50,48 @@
 2019-06-20 21:01:25 [ERROR] firstFrameWork:39 - The Sign In button NOT displayed as expected in the application
 2019-06-20 21:01:40 [ERROR] firstFrameWork:39 - The Forgot password hyperlink NOT displayed as expected in the application
 2019-06-20 21:01:55 [ERROR] firstFrameWork:39 - The dummy object NOT displayed as expected in the application
+2019-06-20 21:16:56 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-20 21:17:18 [ERROR] firstFrameWork:55 - The User Name NOT displayed as expected in the application
+2019-06-20 21:17:33 [ERROR] firstFrameWork:55 - The Password NOT displayed as expected in the application
+2019-06-20 21:17:48 [ERROR] firstFrameWork:39 - The Sign In button NOT displayed as expected in the application
+2019-06-20 21:18:03 [ERROR] firstFrameWork:39 - The Forgot password hyperlink NOT displayed as expected in the application
+2019-06-20 21:18:19 [ERROR] firstFrameWork:39 - The dummy object NOT displayed as expected in the application
+2019-06-20 23:21:47 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-20 23:22:24 [ERROR] firstFrameWork:55 - The User Name NOT displayed as expected in the application
+2019-06-20 23:22:39 [ERROR] firstFrameWork:55 - The Password NOT displayed as expected in the application
+2019-06-20 23:22:54 [ERROR] firstFrameWork:39 - The Sign In button NOT displayed as expected in the application
+2019-06-20 23:23:09 [ERROR] firstFrameWork:39 - The Forgot password hyperlink NOT displayed as expected in the application
+2019-06-20 23:23:24 [ERROR] firstFrameWork:39 - The dummy object NOT displayed as expected in the application
+2019-06-20 23:29:26 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-20 23:29:46 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-06-20 23:30:01 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-06-20 23:53:21 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-20 23:53:41 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-06-20 23:53:56 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-06-20 23:55:19 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-20 23:55:40 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-06-20 23:55:55 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-06-26 23:07:55 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-26 23:08:16 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-06-26 23:08:31 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-06-26 23:09:55 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-26 23:10:15 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-06-26 23:10:30 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-06-26 23:18:43 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-26 23:18:49 [INFO ] firstFrameWork:52 - Given value entered in User Name text box as expected in the application
+2019-06-26 23:18:49 [INFO ] firstFrameWork:52 - Given value entered in Password text box as expected in the application
+2019-06-26 23:23:51 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-26 23:24:11 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-06-26 23:24:27 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-06-26 23:27:04 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-26 23:27:24 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-06-26 23:27:39 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-06-26 23:28:59 [INFO ] firstFrameWork:24 - URL is Opened
+2019-06-26 23:29:20 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-06-26 23:29:35 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-07-16 00:20:19 [INFO ] firstFrameWork:24 - URL is Opened
+2019-07-16 00:20:40 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-07-16 00:20:56 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
+2019-07-16 00:23:34 [INFO ] firstFrameWork:24 - URL is Opened
+2019-07-16 00:24:39 [ERROR] firstFrameWork:56 - The User Name NOT displayed as expected in the application
+2019-07-16 00:24:54 [ERROR] firstFrameWork:56 - The Password NOT displayed as expected in the application
